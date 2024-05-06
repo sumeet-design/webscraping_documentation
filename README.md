@@ -1,8 +1,6 @@
 # Hospital Project Documentation
 
-Certainly! Here's the improved statement:
-
-This repository contains documentation for the hospital project, which involves extracting hospital and doctor details using web scraping. For demonstration purposes, a Python script `dump_helium.py` has been added to scrape data from a sample website. . The repository also includes a folder named `data` which contains the expected output format for hospitals and doctors details in xlsx."
+This repository contains documentation for the hospital project, which involves extracting hospital and doctor details using web scraping. For demonstration purposes, a Python script `dump_helium.py` has been added to scrape data from a sample website. The repository also includes a folder named `data` which contains the expected output format for hospitals and doctors details in xlsx."
 
 ## Getting Started
 
