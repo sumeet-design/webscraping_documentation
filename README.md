@@ -23,7 +23,7 @@ To get started with the project, follow these steps:
 
 ### Project Description
 
-We have to scraped hospital and doctor data for different countries, including India, UK, US, Turkey, and Saudi Arabia, and extracted various fields. For doctors, We have to captured details such as name, email, phone extension, phone number, user ID, gender, experience years, about, slug name, education, experience, specialization, list of treatments, papers published, awards, surgeries, rating, address, latitude, longitude, state, city, city ID, country ID, profile views, status, created at, updated at, avatar, profile link, telemedicine status, telemedicine fee, created by, updated by, is top, and source.
+We have to scraped hospital and doctor data for different countries like India, UK, US, Turkey, and Saudi Arabia, and extracted various fields. For doctors, We have to captured details such as name, email, phone extension, phone number, user ID, gender, experience years, about, slug name, education, experience, specialization, list of treatments, papers published, awards, surgeries, rating, address, latitude, longitude, state, city, city ID, country ID, profile views, status, created at, updated at, avatar, profile link, telemedicine status, telemedicine fee, created by, updated by, is top, and source.
 
 For hospitals, we have  to gathered information such as name, address, city ID, country ID, category, treatment availability, description, logo, hospital logo, profile views, latitude, longitude, key points, created by, created at, updated at, status, visible, establishment year, number of beds, number of ICU beds, operation theaters, popular for, team and speciality, infrastructure, state, URL safe, email, other emails, is top, and source.
 
